@@ -1,5 +1,3 @@
-# igormitchell.github.io
-CV DevOps engineer
 **DevOps**  
 **Male, 34 years old**  
 
