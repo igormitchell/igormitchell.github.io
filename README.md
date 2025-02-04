@@ -79,7 +79,7 @@ To secure a challenging position as a **DevOps Engineer** in the EU or the Unite
 
 ### **Education**
 
-#### **21 School – Programming Academy**  
+#### **42 The Network – private institution of education in computer science **  
 *Graduated: 2021*  
 **Program:** Software Development (Partnered with Sberbank)
 
